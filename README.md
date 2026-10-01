@@ -74,29 +74,6 @@ Sorting-Visualizer/
 -   **JavaScript (ES6+)** --- Sorting algorithms, DOM manipulation, and
     animations
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-``` bash
-git clone https://github.com/your-username/sorting-visualizer.git
-```
-
-### 2. Open the project
-
-Navigate to the project directory:
-
-``` bash
-cd sorting-visualizer
-```
-
-### 3. Run the visualizer
-
-Open `index.html` in a web browser.
-
-For the best development experience, you can use **VS Code with Live
-Server** and launch `index.html`.
-
 ## 🧠 How It Works
 
 The application generates an array of values and represents each value
@@ -162,20 +139,6 @@ This project was developed to strengthen understanding of:
 -   Time and space complexity
 -   Modular code organization
 -   Front-end development fundamentals
-
-## 🔮 Possible Improvements
-
-Future versions could include:
-
--   Sorting speed controls
--   Array size controls
--   Algorithm performance comparison
--   Number of comparisons and swaps
--   Execution-time statistics
--   Additional algorithms such as Shell Sort, Counting Sort, Radix Sort,
-    and Bucket Sort
--   Dark/light theme
--   Mobile UI improvements
 
 ## 📌 Project Purpose
 
